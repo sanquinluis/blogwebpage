@@ -1,0 +1,25 @@
+{
+  "name": "blogwebpage",
+  "version": "1.0.0",
+  "description": "Blog app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanquinluis/blogwebpage.git"
+  },
+  "author": "Lui Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanquinluis/blogwebpage/issues"
+  },
+  "homepage": "https://github.com/sanquinluis/blogwebpage#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc1"
+  }
+}
